@@ -1,4 +1,4 @@
-# MF
+# Mutual Funds
 ### This is a simple python script using Beautiful Soup which gets the NAV of the Mutual Funds and stores it in the excel file. 
 #### To add more funds, simply add a new column in the Excel file with the name of the fund and its Moneycontrol URL.
 
